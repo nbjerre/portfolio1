@@ -5,4 +5,4 @@ image: assets/uploads/img_20210509_082503-1-.jpg
 ---
 > d﻿et var en fucking stor hund
 >
-> ![assets/uploads/img_20210509_082503-1-.jpg](/assets/uploads/img_20210509_082503-1-.jpg "hej")
+> ![portfolio1/assets/uploads/img_20210509_082503-1-.jpg](/assets/uploads/img_20210509_082503-1-.jpg "hej")
