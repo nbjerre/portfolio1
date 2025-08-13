@@ -69,7 +69,8 @@ author:
       url: "https://nbjerre.github.io/"
     
 
-
+atom_feed:
+  hide: true
    
 
 defaults:
