@@ -9,10 +9,10 @@ A﻿s you can see on the kanban board alot of progress has been made the first w
 
 ### Guild ML and AI:
 
-I﻿ am researching and watching videos about what a neural net is, i will continue to do so another week, then find out what i need to 
+I﻿ am researching and watching videos about what a neural net is, i will continue to do so another week, then find out what i need to the make a ai play our game
 
 ![](/assets/uploads/skærmbillede-2025-08-21-140840.png)
 
-the make a ai play our game
+
 
 ![](/assets/uploads/skærmbillede-2025-08-21-140038.png)
