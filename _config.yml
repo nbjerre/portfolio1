@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Nicolai Bjerregaard Jensen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Portfolio"
+  bio    : "This is my Portfolio for 4 semester. The posts is about the progress i am making, on our bullet hell game, and my 2 specializations( gamedev and Machine learning) "
   links:
     - label: "CV Website"
       icon: "fas fa-fw fa-link"
