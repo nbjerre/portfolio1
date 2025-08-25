@@ -1,5 +1,5 @@
 ---
-title: "004: adding different upgrades to arrow and still researching AI"
+title: "005: adding different upgrades to arrow and still researching AI"
 date: 2025-08-25T11:28:42.772Z
 image: /assets/uploads/skærmbillede-2025-08-25-132941.png
 ---
