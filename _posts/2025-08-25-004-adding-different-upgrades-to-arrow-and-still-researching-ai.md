@@ -13,6 +13,8 @@ I﻿t tooke some time to make the xpbar correctly so when the player levels up i
 
 finetune and add a style to the buttons, aswell as fixing a bug we found in our playtesting, where it does not change who the arrow flies at.
 
+A﻿lso a meeting with PO is setup to check if we are on the right direction
+
 ### Guild ML and AI:
 
 ###### Progress:
