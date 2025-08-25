@@ -9,6 +9,10 @@ image: /assets/uploads/skærmbillede-2025-08-25-132941.png
 
 I﻿t tooke some time to make the xpbar correctly so when the player levels up it resets, i also got sidetracked with using a shader for the grass(linked below), it was supposed to make it less repeatable, but my knowledge about shaders and materials was to small, so i dropped it and continued to work on the xp bar. as you can see in the photo, i am making progress, the bar now resets and you can choose between fire and ice arrow, i have alot more to understand about spawning objects, not even begun to look at animation.
 
+
+
+N﻿icolai is killing it with a settingsmenu, resolutions and adding a tavern to the game
+
 ###### N﻿ext:
 
 finetune and add a style to the buttons, aswell as fixing a bug we found in our playtesting, where it does not change who the arrow flies at.
