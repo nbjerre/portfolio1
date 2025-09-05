@@ -67,6 +67,11 @@ author:
     - label: "CV Website"
       icon: "fas fa-fw fa-link"
       url: "https://nbjerre.github.io/"
+      
+    - label: "AI Survival Agent (GitHub)"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/nbjerre1/Project-Ares-AI"
+     
     
 
 atom_feed:
