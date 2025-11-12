@@ -1,5 +1,5 @@
 ---
-title: "014: Enemy spawns and sounds"
+title: "014: Sound and balancing, AI DONE"
 date: 2025-11-11T10:11:21.583Z
 image: /assets/uploads/skærmbillede-2025-11-11-111250.png
 ---
